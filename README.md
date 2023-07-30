@@ -1,8 +1,8 @@
 # MachineLearning LinearReg/DecisionTree
- Machine Learning Techniques on an Iris Dataset with 2 classes using Linear Regression and Decision Tree Learning with Scikit Learn.
+ Machine Learning Techniques on an Iris Dataset with 2 classes using Linear Regression and Decision Tree Learning with Scikit Learn. <br> <br>
  Code files included:
-    1. Working Sheet - Decision Tree Learning.ipynb
-    2. Working Sheet - Logistic Regression.ipynb
+ 1. Working Sheet - Decision Tree Learning.ipynb
+ 2. Working Sheet - Logistic Regression.ipynb
 
 ## Aim
 To understand:
